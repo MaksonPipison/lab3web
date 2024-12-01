@@ -1,0 +1,20 @@
+body {
+  background-color: #f4f4f4;
+}
+
+.hero-section {
+  background-image: url("https://www.apple.com/v/home/an/images/heroes/iphone-15/hero__dvsxv8smkkgi_large.jpg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  color: white;
+}
+.hero-section .hero-text {
+  background-color: rgba(0, 0, 0, 0.6);
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.test {
+  padding-top: 50px;
+}/*# sourceMappingURL=style.css.map */
